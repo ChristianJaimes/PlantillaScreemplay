@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Registro usuario" skipped="0" tests="1" time="9.24" timestamp="2020-12-06 08:47:06"><testcase name=""><error message="No such field com.plantilla.certificacion.autoPlantilla.model.DatosUsuario.nombre" type="cucumber.runtime.CucumberException">No such field com.plantilla.certificacion.autoPlantilla.model.DatosUsuario.nombre</error><system-err>No such field com.plantilla.certificacion.autoPlantilla.model.DatosUsuario.nombre&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
